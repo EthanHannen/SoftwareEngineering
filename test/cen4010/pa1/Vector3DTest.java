@@ -1,4 +1,4 @@
-package cen4010;
+package cen4010.pa1;
 
 import static org.junit.jupiter.api.Assertions.*;
 
